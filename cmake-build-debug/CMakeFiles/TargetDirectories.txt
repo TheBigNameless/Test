@@ -1,0 +1,3 @@
+C:/Users/herzo/CLionProjects/020923iz1/cmake-build-debug/CMakeFiles/020923iz1.dir
+C:/Users/herzo/CLionProjects/020923iz1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/herzo/CLionProjects/020923iz1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
