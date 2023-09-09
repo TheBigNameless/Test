@@ -8,7 +8,7 @@ int main() {
     printf("Anzahl Pruefungen: ");
     scanf("%d", &pruefungen);
 
-    while (pruefungen > i){
+    while (pruefungen >= i){
         scanf ("%d\n", &a);
         ergebniss = ergebniss + a;
         printf("%f:",i);
@@ -17,7 +17,7 @@ int main() {
         a = 0;
         i++;
     }
-    printf("Ergebniss vor Rechnung:%f\n",ergebniss);
+    printf("Ergebniss vor Rechnung: %f\n",ergebniss);
     ergebniss = ergebniss/pruefungen;
     printf("Ergebniss: %f", ergebniss);
     return 0;
